@@ -36,7 +36,7 @@ npm run format:check # Verificar formatação (usado no CI)
 ## Estrutura do Projeto
 
 ```text
-tan_project/
+.
 ├── public/
 │   ├── favicon.svg
 │   └── robots.txt
